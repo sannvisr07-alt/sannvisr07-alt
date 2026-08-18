@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi!!
 
 <!--
 **sannvisr07-alt/sannvisr07-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![snoopy coding](https://pin.it/1jqmQ8Vo4)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
