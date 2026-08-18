@@ -1,5 +1,5 @@
 ## Hi!!
-![sleepy cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3prYmFiMTJpMG12d3l1MXhhanF3am5ucjEwemswZXh4dXFjbzYweSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/GRBzIPhqX1ZLNUnHcA/giphy.gif)🌱Still learning, still figuring it out, cat lover 🐱
+![sleepy snoopy](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHg0MzhkOGx4bnR4MXh0YmJxOXhmcmx1eGp3MG9zZXFieXB3NDcwYyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/v1OdAXmGWH93q/giphy.gif)🌱Still learning, still figuring it out, cat lover 🐱
 <!--
 **sannvisr07-alt/sannvisr07-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
